@@ -13,3 +13,10 @@ redirect_from:
 
 * My current research interests lie in the area of robot learning, particularly in imitation learning and reinforcement learning. 
 
+
+# Project
+Name | Duty 
+:-: | :-: 
+“973”计划课题：救灾机器人主从控制与自律协同（2013CB035504） | 主要参与者 
+长沙市科技局“工业科技特派员”项目(CSKJ2017-42) | 负责人
+中南大学研究生自主探索创新项目(2019zzts252) | 主持
