@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hou Liwei(侯 力玮)"
 title_separator          : "-"
 name                     : &name "Hou Liwei"
-description              : &description "PhD candidates"
+description              : &description "PhD in Robotics"
 url                      : https://liweihou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LiweiHou/liweihou.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Liwei Hou"
   avatar           : "lwhou.png"
-  bio              : "Ph.D candidates, Mechanical and Electrical Engineering, Central South University"
+  bio              : "PhD in Robotics, Robot Development Engineer"
   location         : "Changsha,China"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
