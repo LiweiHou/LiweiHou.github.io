@@ -82,6 +82,9 @@ Currently, I am the founder and operator of Airan Tech, an AI technology company
 
   *- Project: Optimization of User Gaming Experience Based on Reinforcement Learning*
 
+# 🪽 About Airon
+
+I love **music, literature, travel and badminton**. I am a **campus singer** at Renmin University of China and have been invited to participate in various concerts and music festivals at RUC. I am also a **musician at NetEase Cloud Music**, and my stage name is [艾诺 Ayinor](http://music.163.com/#/artist?id=36180214). Recently, I am also working on my own new song, so stay tuned!
 
 # 🔥 News
 - *2025.07.08*: &nbsp;🎉 Selected to receive a SIGKDD-supported KDD 2025 Student Travel Award!
@@ -144,14 +147,9 @@ Yuchao Ma, Weian Li, Yuejia Dou, **Zhiyuan Su**, Changyuan Yu, Qi Qi
 - Artifact badging reviewer, KDD 2025
 
 
-# 🪽 Beyond Academics
-
-I love **music, literature, travel and badminton**. I am a **campus singer** at Renmin University of China and have been invited to participate in various concerts and music festivals at RUC. I am also a **musician at NetEase Cloud Music**, and my stage name is [艾诺 Ayinor](http://music.163.com/#/artist?id=36180214). Recently, I am also working on my own new song, so stay tuned!
-
-
 # 🌍 Visitor Map
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1838a3&w=400&t=tt&d=opzTPaTNgNUrWvD_vjzXkFUMNo05ptM6XPnZfkpH53E&co=ffffff&cmo=af1616&cmn=1fba1f&ct=000000'></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=8QMmSJQVH6IW5qwO41D-KdyLvD7WTBxlNh-gT-o1388&cl=ffffff&w=a"></script>
 
 
 
@@ -164,7 +162,7 @@ I love **music, literature, travel and badminton**. I am a **campus singer** at 
 
 
 <footer class="site-footer">
-  <p>&copy; 2025 Zhiyuan Su. All rights reserved.</p>
+  <p>&copy; 2025 Liwei Hou. All rights reserved.</p>
   <p>
     Template adapted from
     <a href="https://github.com/RayeRen/acad-homepage.github.io"
