@@ -126,7 +126,7 @@ Yuchao Ma, Weian Li, Yuejia Dou, **Zhiyuan Su**, Changyuan Yu, Qi Qi
 
 
 # 🎖 Honors and Awards
-- *2023.01*: &nbsp;💰 Zoomlion Annual Outstanding Employee 中联年度优秀员工
+- *2023.01*: &nbsp;🏆 Zoomlion Annual Outstanding Employee 中联重科年度优秀员工
 
 # 🌍 Visitor Map
 
