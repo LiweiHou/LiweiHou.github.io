@@ -95,7 +95,7 @@ Airon is an enterprise service platform driven by artificial intelligence techno
 - *2024.12.10*: &nbsp;🎉 Admitted to the Mitacs Globalink Research Internship **full-scholarship** summer research program.
 
 
-# 📝 Selected projects
+# 📝 Selected Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='../images/SeRe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
