@@ -136,6 +136,15 @@
       {% if author.email %}
         <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
       {% endif %}
+      
+      {% if author.phone %}
+        <a href="tel:{{ author.phone | replace: ' ', '' | replace: '(', '' | replace: ')', '' | replace: '-', '' }}">
+        <i class="fas fa-fw fa-phone" aria-hidden="true"></i>
+        </a>
+      {% endif %}
+
+
+      
       {% if author.keybase %}
         <a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>
       {% endif %}
