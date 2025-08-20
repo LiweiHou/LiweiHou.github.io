@@ -135,15 +135,6 @@ Yuchao Ma, Weian Li, Yuejia Dou, **Zhiyuan Su**, Changyuan Yu, Qi Qi
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=j2P-1zF4D1SxxgYEb-tcl8IPUhcf145Bw9HPn9DE8nU&cl=ffffff&w=a"></script>
 
 
-
-<div class="logo-row">
-  <img src="../images/ruc_logo.png"      alt="">
-  <img src="../images/ucdavis_logo.png"  alt="">
-  <img src="../images/dal_logo.png"      alt="">
-  <img src="../images/mitacs_logo.png"      alt="">
-</div>
-
-
 <footer class="site-footer">
   <p>&copy; 2025 Liwei Hou. All rights reserved.</p>
   <p>
