@@ -84,7 +84,7 @@ Currently, I am the founder and operator of Airan Tech, an AI technology company
 
 # 🔥 About Airon
 
-I love **music, literature, travel and badminton**. I am a **campus singer** at Renmin University of China and have been invited to participate in various concerts and music festivals at RUC. I am also a **musician at NetEase Cloud Music**, and my stage name is [艾诺 Ayinor](http://music.163.com/#/artist?id=36180214). Recently, I am also working on my own new song, so stay tuned!
+Airon is an enterprise service platform driven by artificial intelligence technology, providing data collection and annotation services, AI training services, and AI solution services to over one million enterprises and developers worldwide.
 
 # 📈 News
 - *2025.07.08*: &nbsp;🎉 Selected to receive a SIGKDD-supported KDD 2025 Student Travel Award!
