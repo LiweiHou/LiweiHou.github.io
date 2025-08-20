@@ -133,11 +133,6 @@ Yuchao Ma, Weian Li, Yuejia Dou, **Zhiyuan Su**, Changyuan Yu, Qi Qi
 - *2024.04*: &nbsp;💰 *Municipal Approval* for Student Innovation Project – 7,500 CNY
 - *2024.04*: &nbsp;🎖 Outstanding Communist Youth League Member
 
-
-# 💼 Services
-- Artifact badging reviewer, KDD 2025
-
-
 # 🌍 Visitor Map
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=j2P-1zF4D1SxxgYEb-tcl8IPUhcf145Bw9HPn9DE8nU&cl=ffffff&w=a"></script>
