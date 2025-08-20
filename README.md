@@ -1,4 +1,4 @@
-# Welcome to Zhiyuan Su 苏智渊's Academic Homepage!
+# Welcome to Liwei HOU(侯力玮)'s Academic Homepage!
 
 Template adapted from
 <a href="https://github.com/RayeRen/acad-homepage.github.io"
