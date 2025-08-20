@@ -70,13 +70,17 @@ I hold a PhD from [Central South University](https://www.shanghairanking.com/ins
 Currently, I am the founder and operator of Airan Tech, an AI technology company. My vision is to bring AI to the ground, boost social efficiency, and benefit humanity.
 
 # 💻 Work Experiences
+- *2022.01 - 2025.07*：&nbsp;🇨🇳 *Zoomlion*, AI Scientist/Expert, Project Manager
+
+  *- Project1: Bandit Optimization for Homepage Personalization in Online Retail*
+
 - *2021.01 – 2021.11*: &nbsp;🇺🇸 *Amazon*, Remote Intern.
 
   *- Project: Bandit Optimization for Homepage Personalization in Online Retail*
   
-- *2017.1 – 2017.6*: &nbsp;🇨🇳 *Tencent*, Intern.
+- *2017.01 – 2017.06*: &nbsp;🇨🇳 *Tencent*, Intern.
 
-  *- Project: Optimization of User Gaming Experience Based on Reinforcement Learning *
+  *- Project: Optimization of User Gaming Experience Based on Reinforcement Learning*
 
 
 # 🔥 News
