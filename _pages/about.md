@@ -65,22 +65,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Zhiyuan Su. I am currently a **senior** undergraduate at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). I was an exchange student at [University of California, Davis](https://www.ucdavis.edu/) (2025.01 -- 2025.03). Now I am also a visiting research student at [Dalhousie University](https://www.dal.ca/) (2025.07 -- 2025.10), sponsored by [Mitacs, Canada](https://www.mitacs.ca/).
+I hold a PhD from [Central South University](https://www.shanghairanking.com/institution/central-south-university), with my research focusing on robotic learning. Prior to this, I pursued my studies at [Tianjin University](https://www.shanghairanking.com/institution/tianjin-university). 
 
-My research interests focus on **reinforcement learning, online learning, continual learning, recommender system, and computational advertising**. In addition, I am also interested in board application of AI models. Recently, I am focusing on:  
-(1) sequential bidding ranking algorithms;  
-(2) controllable model editing in generative recommendation.  
-My research aims to build **intelligent systems that are elegant in theory and effective in practice**, and provide credible solutions to the urgent needs of contemporary society.
+Currently, I am the founder and operator of Airan Tech, an AI technology company. My vision is to bring AI to the ground, boost social efficiency, and benefit humanity.
 
 # 💻 Work Experiences
-- *2025.07 – 2025.10*: &nbsp;🇨🇦 *Mitacs Globalink Research Intern & Visiting Research Student*, [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience.html), Dalhousie University
+- *2021.01 – 2021.11*: &nbsp;🇺🇸 *Amazon*, Remote Intern.
 
-  *- Lab: [Dalhousie Applied Machine Learning Research Lab](https://web.cs.dal.ca/~gaw/), Collaborator: [Dr. Ga Wu](https://wuga214.github.io/)*
+  *- Project: Bandit Optimization for Homepage Personalization in Online Retail*
   
-  *- Project: AI safety for recommender systems in social media services*
-  
-- *2024.11 – Present*: &nbsp;🇨🇳 *Research Intern*, Beijing Key Laboratory of Research on Large Models and Intelligent Governance
-- *2024.05 – 2024.09*: &nbsp;🇨🇳 *Research Intern*, Engineering Research Center of Next-Generation Intelligent Search and Recommendation, MOE
+- *2017.1 – 2017.6*: &nbsp;🇨🇳 *Tencent*, Intern.
+
+  *- Project: Optimization of User Gaming Experience Based on Reinforcement Learning *
+
 
 # 🔥 News
 - *2025.07.08*: &nbsp;🎉 Selected to receive a SIGKDD-supported KDD 2025 Student Travel Award!
