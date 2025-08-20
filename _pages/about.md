@@ -70,6 +70,8 @@ I hold a PhD from [Central South University](https://www.shanghairanking.com/ins
 Currently, I am the founder and CEO of Airon Tech, an AI technology company. My vision is to bring AI to the ground, boost social efficiency, and benefit humanity.
 
 # 💻 Work Experiences
+- *2025.08 - Recent*：&nbsp;🇨🇳 *Airon*, Founder & CEO
+
 - *2022.08 - 2025.07*：&nbsp;🇨🇳 *Zoomlion*, AI Scientist/Expert, Project Manager
 
   *- Project1: Bandit Optimization for Homepage Personalization in Online Retail*
