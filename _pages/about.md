@@ -67,7 +67,7 @@ redirect_from:
 
 I hold a PhD from [Central South University](https://www.shanghairanking.com/institution/central-south-university), with my research focusing on robotic learning. Prior to this, I pursued my studies at [Tianjin University](https://www.shanghairanking.com/institution/tianjin-university). 
 
-Currently, I am the founder and operator of Airan Tech, an AI technology company. My vision is to bring AI to the ground, boost social efficiency, and benefit humanity.
+Currently, I am the founder and CEO of Airon Tech, an AI technology company. My vision is to bring AI to the ground, boost social efficiency, and benefit humanity.
 
 # 💻 Work Experiences
 - *2022.08 - 2025.07*：&nbsp;🇨🇳 *Zoomlion*, AI Scientist/Expert, Project Manager
