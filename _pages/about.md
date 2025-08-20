@@ -89,9 +89,7 @@ Airon is an enterprise service platform driven by artificial intelligence techno
 # 📈 News
 - *2025.08.19*: &nbsp;🎉 Released the first “Trusted Data Space” product built on federated learning!
 
-<p align="center">
-  <img src="{{ '/images/trusted.png' | relative_url }}" alt="Trusted Data Space" width="640">
-</p>
+![Trusted](/images/trusted.png)
 
 
 # 📝 Selected Projects
