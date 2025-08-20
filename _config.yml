@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Liwei Hou 侯力玮"
 description              : "\"Bring AI to the ground, boost social efficiency, and benefit humanity.\""
-repository               : "zhiyuansu0326/zhiyuansu0326.github.io"
+repository               : "https://github.com/LiweiHou/LiweiHou.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Liwei Hou 侯力玮"
-  avatar           : "images/szy1.png"
+  avatar           : "images/airon.png"
   bio              : "Founder of Airon Tech Corp. and Ph.D. in Robotics."
   location         : "Changsha, China"
   employer         :
