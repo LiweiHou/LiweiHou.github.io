@@ -106,7 +106,7 @@ Airon is an enterprise service platform driven by artificial intelligence techno
 
 Developed the glass installation robot with autonomous alignment functionality, achieving an installation control accuracy of 3mm.
 
-- Two papers published
+- *Two papers published*
   - [111](https://arxiv.org/pdf/2506.12389)<span class="rucred">ICRA'25</span>
   - [222](https://arxiv.org/pdf/2506.12389)<span class="rucred">ROBIO'24</span>
   
