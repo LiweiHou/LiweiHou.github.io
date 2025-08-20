@@ -74,19 +74,13 @@ Currently, I am the founder and CEO of Airon Tech, an AI technology company. My 
 
 - *2022.08 - 2025.07*：&nbsp;🇨🇳 *Zoomlion*, AI Scientist/Expert, Project Manager
 
-  *- Project1: Bandit Optimization for Homepage Personalization in Online Retail*
+- *2024.01 – 2024.02*: &nbsp;🇸🇬 *National University of Singapore*, Visiting Scholar.
   
 - *2021.07 – 2021.08*: &nbsp;🇨🇳 *Alibaba*, Intern.
 
-  *- Project: Robotic arm-based automated logistics system*
-
 - *2020.05 – 2021.3*: &nbsp;🇺🇸 *Amazon*, Remote Intern.
-
-  *- Project: Bandit Optimization for Homepage Personalization in Online Retail*
   
 - *2017.01 – 2017.06*: &nbsp;🇨🇳 *Tencent*, Intern.
-
-  *- Project: Optimization of User Gaming Experience Based on Reinforcement Learning*
 
 # 🔥 About Airon
 
