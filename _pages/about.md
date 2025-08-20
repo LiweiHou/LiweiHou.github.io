@@ -98,6 +98,7 @@ Airon is an enterprise service platform driven by artificial intelligence techno
 A secure digital environment where companies can share and use sensitive data with absolute confidence. We ensure provenance, integrity, and control, turning data collaboration into your greatest competitive advantage.
   
 - **<span style="color:#548656">Encrypted. Traceable. Governed. Collaborate with 100% confidence!</span>**
+- our platform guarantees **99.99% uptime**, delivers **sub-5ms encryption latency** with 10G+ throughput, supports **10,000+ concurrent connections**, and provides instant, cryptographically-verified audit trails for all data operations.
 
 </div>
 </div>
