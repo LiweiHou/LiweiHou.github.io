@@ -97,7 +97,7 @@ Airon is an enterprise service platform driven by artificial intelligence techno
 
 A secure digital environment where companies can share and use sensitive data with absolute confidence. We ensure provenance, integrity, and control, turning data collaboration into your greatest competitive advantage.
   
-- **<span style="color:#548656">Encrypted. Traceable. Governed. Collaborate with 100% confidence!</span>**
+- *<span style="color:#548656">Encrypted. Traceable. Governed. Collaborate with 100% confidence!</span>*
 - our platform guarantees **99.99% uptime**, delivers **sub-5ms encryption latency** with 10G+ throughput, supports **10,000+ concurrent connections**, and provides instant, cryptographically-verified audit trails for all data operations.
 
 </div>
@@ -113,22 +113,6 @@ Developed the glass installation robot with autonomous alignment functionality, 
 - *Two papers published*
   - [Diffusion-based Self-Supervised Imitation Learning from Imperfect Visual Servoing Demonstrations for Robotic Glass Installation](https:)<span class="rucred">ICRA'25</span>
   - [High-Precision Automated Glass Installation Robot with Dual-Camera Visual Servoing Control](https://ieeexplore.ieee.org/abstract/document/10907684)<span class="rucred">ROBIO'24</span>
-  
-- [**<span style="color:#548656">Watch our promotional video on YouTube!</span>**](https://www.youtube.com/watch?v=lATSWn7t_Xc)
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='../images/TICNet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Context-Aware Framework for Integrating Ad Auctions and Recommendations](https://dl.acm.org/doi/pdf/10.1145/3696410.3714779?casa_token=8lqAC8Liak8AAAAA:lbsi8gr5tQAQds4gSyTdM3a7Rl43lK1yXwjDzjOtcXOxydg_JQJfvJxQtUKGAPxbZNspu3OlGT5ZcQ)
-
-Yuchao Ma, Weian Li, Yuejia Dou, **Zhiyuan Su**, Changyuan Yu, Qi Qi
-
-- *Accepted at ACM The Web Conference (WWW) 2025* <span class="rucred">Poster</span>
 
 </div>
 </div>
