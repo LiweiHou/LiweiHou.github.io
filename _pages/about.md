@@ -82,11 +82,11 @@ Currently, I am the founder and operator of Airan Tech, an AI technology company
 
   *- Project: Optimization of User Gaming Experience Based on Reinforcement Learning*
 
-# 🪽 About Airon
+# 🔥 About Airon
 
 I love **music, literature, travel and badminton**. I am a **campus singer** at Renmin University of China and have been invited to participate in various concerts and music festivals at RUC. I am also a **musician at NetEase Cloud Music**, and my stage name is [艾诺 Ayinor](http://music.163.com/#/artist?id=36180214). Recently, I am also working on my own new song, so stay tuned!
 
-# 🔥 News
+# 📈 News
 - *2025.07.08*: &nbsp;🎉 Selected to receive a SIGKDD-supported KDD 2025 Student Travel Award!
 - *2025.06.30*: &nbsp;🎉 Received the presidential scholarship of **40,000 CNY** for being an outstanding exchange student at UC Davis.
 - *2025.05.15*: &nbsp;🎉 A paper about clustering of neural bandits was accepted by **KDD 2025 Research Track**. Congratulations to myself on my **first first-author paper**!
@@ -133,15 +133,6 @@ Yuchao Ma, Weian Li, Yuejia Dou, **Zhiyuan Su**, Changyuan Yu, Qi Qi
 - *2024.04*: &nbsp;💰 *Municipal Approval* for Student Innovation Project – 7,500 CNY
 - *2024.04*: &nbsp;🎖 Outstanding Communist Youth League Member
 
-# 📖 Educations
-- *2025.01 – 2025.03*: &nbsp;🇺🇸 **Global Study Program, University of California, Davis**
-  
-  *- Major: Mathematics & Statistics, Graduated with Academic Perfection*
-
-- *2022.09 – Present*: &nbsp;🇨🇳 **Gaoling School of Artificial Intelligence, Renmin University of China**
-  
-  *- Bachelor of Engineering in Artificial Intelligence, Supervisors: [Dr. Qi Qi](https://gsai.ruc.edu.cn/qiqi), [Dr. Xiao Zhang](https://pinkfloyd1989.github.io/Xiao_Zhang/)*
-
 
 # 💼 Services
 - Artifact badging reviewer, KDD 2025
@@ -149,7 +140,7 @@ Yuchao Ma, Weian Li, Yuejia Dou, **Zhiyuan Su**, Changyuan Yu, Qi Qi
 
 # 🌍 Visitor Map
 
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=SKPxOCl2LvFs2hOxtMA5x1GJTstUpbggvd8g_VxtmSM"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=j2P-1zF4D1SxxgYEb-tcl8IPUhcf145Bw9HPn9DE8nU&cl=ffffff&w=a"></script>
 
 
 
