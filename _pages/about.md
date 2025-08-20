@@ -149,7 +149,7 @@ Yuchao Ma, Weian Li, Yuejia Dou, **Zhiyuan Su**, Changyuan Yu, Qi Qi
 
 # 🌍 Visitor Map
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=8QMmSJQVH6IW5qwO41D-KdyLvD7WTBxlNh-gT-o1388&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=SKPxOCl2LvFs2hOxtMA5x1GJTstUpbggvd8g_VxtmSM"></script>
 
 
 
